@@ -66,7 +66,7 @@ Troco: R$ 5,00
 ---
 
 ## 📷 Demonstração
-(https://github.com/ricardoleonelbpn/Calculadora_Precos_de_Reifeicoes.py/commit/82d04a40e6f033854b6c7fea2683e50511d664b3)
+imagens/calculadora.png
 
 ---
 
